@@ -23,4 +23,6 @@ Docker image for using instant client v11.2.0.4.0 with Node.js 9
 
 ### More info.
 
-http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
+[DockerHub](https://hub.docker.com/r/josebovet/node-oracle)
+
+[Oracle Documentation](http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html)
